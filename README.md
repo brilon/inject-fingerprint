@@ -162,3 +162,4 @@ Browser User Agent. <https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Headers/U
 ## Proxy documentation
 
 <https://anyproxy.io/>
+
